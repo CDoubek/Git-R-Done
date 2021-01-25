@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    //Inserted trival comments here
+    //This is done on the dev branch
     
     override func viewDidLoad() {
         super.viewDidLoad()
